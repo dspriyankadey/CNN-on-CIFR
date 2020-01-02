@@ -1,7 +1,27 @@
 # CNN-on-CIFR 10
-The CIFAR-10 dataset is a collection of images.This dataset contains 60,000 32x32 color images in 10 different classes(airplanes, cars, birds, cats, deer, dogs, frogs, horses, ships, and trucks). There are 6,000 images of each class.
+The CIFAR-10 dataset is a collection of images.This dataset contains 60,000 32x32 color images in 10 different classes. There are 6,000 images of each class.
 
-![CIFAR](/images/mnist.png)
+### Classes
+<br>
+0 : airplane
+<br>
+1 : automobile
+<br>
+2 : bird
+<br>
+3 : cat
+<br>
+4 : deer
+<br>
+5 : dog
+<br>
+6 : frog
+<br>
+7 : horse
+<br>
+8 : ship
+<br>
+9 : truck
 
 ### Objective
 <ul><li>
