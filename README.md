@@ -33,4 +33,5 @@ Retrain the model used in state-of-art DenseNet without using any Dropout and De
  ### Procedure 
  <ul><li>
  use CNN.<li>
- use Image Augmentation Techniques
+ use Image Augmentation Techniques.<li>
+ use Kernel regularizers.
