@@ -2,7 +2,6 @@
 The CIFAR-10 dataset is a collection of images.This dataset contains 60,000 32x32 color images in 10 different classes. There are 6,000 images of each class.
 
 ### Classes
-<br>
 0 : airplane
 <br>
 1 : automobile
