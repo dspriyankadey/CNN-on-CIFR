@@ -25,3 +25,12 @@ The CIFAR-10 dataset is a collection of images.This dataset contains 60,000 32x3
 ### Objective
 <ul><li>
 Retrain the model used in state-of-art DenseNet without using any Dropout and Dense layer and get accuracy >= 90%.
+ </ul> 
+ 
+ ### Paper
+ https://arxiv.org/pdf/1608.06993.pdf
+ 
+ ### Procedure 
+ <ul><li>
+ use CNN.<li>
+ use Image Augmentation Techniques
